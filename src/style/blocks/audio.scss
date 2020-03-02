@@ -1,0 +1,8 @@
+.audio__list {
+  @include list-reset;
+  padding-bottom: 50px;
+}
+
+.audio__item {
+  margin-bottom: 20px;
+}

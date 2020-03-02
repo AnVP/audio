@@ -1,0 +1,13 @@
+// common
+@import "./variables.scss";
+@import "./mixins.scss";
+@import "./global.scss";
+
+// components
+@import "./components/input-range.scss";
+
+// blocks
+@import "./blocks/container.scss";
+@import "./blocks/page-title.scss";
+@import "./blocks/player.scss";
+@import "./blocks/audio.scss";
